@@ -1,0 +1,61 @@
+.toy{
+    background-color: rgb(116, 179, 121);
+}
+
+.logo{
+    background-color: beige;
+    text-align: center;
+    font: 1em sans-serif;
+
+}
+.test{
+    
+    text-align: center;
+      height: 20%;
+      width: 25%;
+      float: left;
+      background-color: rgb(235, 233, 233);
+
+}
+.tt{
+    float: left;
+    text-align: center;
+    padding-right: 1.5%;
+   
+}
+.ttt{
+    float: left;
+    text-align: center;
+    padding right: 0.5%;
+}
+.ttp{
+    float: left;
+    text-align: center;
+    padding right: 1%;
+}
+.catagory{
+    text-align: center;
+    background-color: rgba(235, 125, 134, 0.938);
+    font: 1em sans-serif;
+}
+
+.footer{
+    background-color: rgb(103, 111, 117);
+    width: 30%;
+    padding-left: 3%;
+    float: left;
+
+ 
+
+  
+}
+.copy{
+    text-align: center;
+    padding-left: 550px;
+    width: 56.2%;
+    font-size: 16px;
+    
+
+  
+
+
