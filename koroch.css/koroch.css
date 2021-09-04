@@ -9,13 +9,17 @@
 
 }
 .test{
+    text-decoration: none;
+    overflow: hidden;
+}
+.test{
     
     text-align: center;
       height: 20%;
       width: 25%;
       float: left;
       background-color: rgb(235, 233, 233);
-      text-decoration: none;
+    
 
 
 }
@@ -46,16 +50,12 @@
     width: 30%;
     padding-left: 3%;
     float: left;
-
- 
-
-  
 }
 .copy{
     text-align: center;
     padding-left: 550px;
     width: 56.2%;
     font-size: 16px;
- h3{
+a{
     text-decoration: none;
 }
